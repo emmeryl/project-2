@@ -1,1 +1,13 @@
 /* Place CSS styles here */
+body{font-family: "freight-big-pro", serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    font-size: 15px;}
+  h1{font-family: "freight-big-pro", serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+    font-size: 250px;
+
+  }
