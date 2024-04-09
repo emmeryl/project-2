@@ -11,3 +11,27 @@ body{font-family: "freight-big-pro", serif;
     font-size: 250px;
 
   }
+  .paragraph{
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h2{font-family: "freight-micro-pro", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 70px;}
+h3{font-family: "freight-macro-pro", serif;
+    font-weight: 400;
+    font-style: italic;
+    text-align: left;
+    font-size: 70px;}
+h4{font-family: "freight-big-pro", serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: left;
+    font-size: 70px;}
+h5{font-family: "freight-big-pro", serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    font-size: 70px;}
