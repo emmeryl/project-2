@@ -74,3 +74,39 @@ font-size: 70px;
   display: flex;
   justify-content: space-between;
 }
+.variety-7{
+  font-family: "freight-micro-pro", serif;
+font-weight: 600;
+font-style: normal;
+text-align: left;
+font-size: 70px;
+}
+.variety-8{
+  font-family: "freight-micro-pro", serif;
+font-weight: 600;
+font-style: italic;
+text-align: left;
+font-size: 70px;
+}
+.hehe{
+  display: flex;
+  justify-content: space-between;
+}
+.variety-9{
+  font-family: "freight-big-pro", serif;
+font-weight: 700;
+font-style: normal;
+text-align: left;
+font-size: 70px
+}
+.variety-10{
+  font-family: "freight-big-pro", serif;
+font-weight: 700;
+font-style: italic;
+text-align: left;
+font-size: 70px;
+}
+.hi{
+  display: flex;
+  justify-content: space-between;
+}
